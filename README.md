@@ -1,2 +1,2 @@
 # demo
-starting GitHub
+starting GitHub Hello.
